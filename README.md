@@ -13,5 +13,5 @@ Current snippets:
 
 <ol>
   <li> Abs-date range - Functions for manipulating dates, getting days sinc millenium & days between dates.
-  <li> Reorder headers - Functions to help map one list of headers into another using difference scores & user shuffling, goal is to return a dict which can be used to reorder data into a new table if the headers are written differently.
+  <li> Reorder headers - Functions to help map one list of headers into another using difference scores & user shuffling, goal is to return a dict which can be used to reorder data into a new table if the headers are written differently, or have a different number of columns.
 <ol>
